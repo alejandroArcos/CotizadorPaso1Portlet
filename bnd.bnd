@@ -1,0 +1,4 @@
+Bundle-Name: CotizadorPaso1Portlet
+Bundle-SymbolicName: com.tokio.paso1
+Bundle-Version: 1.0.0
+Export-Package: com.tokio.paso1.constants

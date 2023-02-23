@@ -1,0 +1,9 @@
+
+
+.site-wrapper .cn_rdEx .switch label input[type=checkbox]:checked + .lever:after{
+	background-color: #4285f4 !important;
+}
+
+.site-wrapper .switch label input[type=checkbox]:checked + .lever{
+	background-color: #c7e0f1 !important;
+}
